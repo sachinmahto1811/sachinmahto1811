@@ -44,7 +44,7 @@ Selected automation scale:
 ## Featured Analytics Projects
 
 ### [Customer & Revenue Intelligence](https://github.com/sachinmahto1811/customer-revenue-intelligence)
-Synthetic e-commerce analytics using SQL and Python to examine net revenue, returns, repeat-customer behavior, acquisition-channel value and customer-level analysis.
+Synthetic e-commerce analytics using SQL and Python to examine net revenue, returns, repeat-customer behavior, acquisition-channel value and RFM-based customer segmentation.
 
 ### [Growth Funnel & A/B Testing](https://github.com/sachinmahto1811/growth-funnel-ab-testing)
 Synthetic product analytics covering funnel drop-off, channel conversion and a control-vs-treatment experiment.
@@ -74,6 +74,7 @@ CGPA: **8.2 / 10**
 
 ## Connect
 
+- **Portfolio:** https://sachinmahto1811.github.io/sachinmahto1811/
 - **LinkedIn:** https://www.linkedin.com/in/sachinmahto1811
 - **GitHub:** https://github.com/sachinmahto1811
 - **Email:** sachinsingh1811@gmail.com
