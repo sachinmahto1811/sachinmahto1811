@@ -6,7 +6,7 @@ Gurugram, Haryana, India
 
 I work at the intersection of data analytics, automation, and operational reporting in telecom infrastructure. In my current role as a **NOC Engineer at Altius Infrastructure**, I work with high-volume operational data, outage monitoring, alarm analysis, escalation workflows, reporting automation, master-data mapping, ageing analysis, and RCA-oriented processing.
 
-My current focus is building stronger end-to-end analytics capability across **SQL, Python, Power BI, Excel, ETL, data visualization, and business problem solving** while transitioning toward a full-time **Data Analyst** role.
+My current focus is strengthening end-to-end analytics capability across **SQL, Python, Power BI, Excel, ETL, data visualization, and business problem solving** for Data Analyst opportunities.
 
 ## Core Skills
 
@@ -24,7 +24,6 @@ My current focus is building stronger end-to-end analytics capability across **S
 December 2025 – Present | Gurugram, Haryana, India
 
 Key areas of work:
-
 - High-volume telecom operational data processing
 - Outage monitoring and alarm analysis
 - Escalation and operational reporting
@@ -36,30 +35,34 @@ Key areas of work:
 - Power failure, HRT, RU/DU low-voltage and low-battery monitoring
 
 Selected automation scale:
-
 - **46 registered automation workflows**
 - **40 outage-reporting workflows**
 - **20 operational circles**
 - Approximately **1,032 automated report executions per day**
 - A representative report workflow reduced from roughly **10 minutes manually to about 7 seconds**
 
-## Projects
+## Featured Analytics Projects
 
-I am publishing sanitized, public-safe versions of selected professional automation work along with synthetic analytics labs.
+### [Customer & Revenue Intelligence](https://github.com/sachinmahto1811/customer-revenue-intelligence)
+Synthetic e-commerce analytics using SQL and Python to examine net revenue, returns, repeat-customer behavior, acquisition-channel value and customer-level analysis.
 
-### Professional Projects
-- Centralized NOC Automation
-- Pan-India Outage Reporting Automation
-- Normal / Hub Dump & RCA Engine
-- Alarm Intelligence Dashboards
+### [Growth Funnel & A/B Testing](https://github.com/sachinmahto1811/growth-funnel-ab-testing)
+Synthetic product analytics covering funnel drop-off, channel conversion and a control-vs-treatment experiment.
 
-### Analytics Labs
-- Telecom Reliability Analytics
-- Growth Funnel & A/B Testing
-- Customer & Revenue Intelligence
-- SLA & Anomaly Intelligence
+### [SLA & Anomaly Intelligence](https://github.com/sachinmahto1811/sla-anomaly-intelligence)
+Synthetic operations-ticket analytics covering SLA breaches, resolution time, reopen rate, team × priority performance and IQR-based anomalies.
 
-> Professional repositories are sanitized to protect internal data, credentials, client information, and operational details. Analytics labs use synthetic datasets.
+### [Telecom Reliability Analytics](https://github.com/sachinmahto1811/telecom-reliability-analytics)
+Synthetic telecom reliability analysis covering outage frequency, downtime, MTTR, repeat-failure sites and estimated availability.
+
+## Professional Automation Projects
+
+- [Centralized NOC Automation](https://github.com/sachinmahto1811/centralized-noc-automation)
+- [Pan-India Outage Reporting Automation](https://github.com/sachinmahto1811/outage-reporting-automation)
+- [Normal / Hub Dump & RCA Engine](https://github.com/sachinmahto1811/normal-hub-rca-engine)
+- [Alarm Intelligence Dashboards](https://github.com/sachinmahto1811/alarm-intelligence-dashboards)
+
+> Professional repositories are sanitized, public-safe demonstrations of shared work patterns. They exclude production data, credentials, client information, internal contacts and sensitive implementation details. Analytics labs use synthetic datasets.
 
 ## Education
 
@@ -74,7 +77,3 @@ CGPA: **8.2 / 10**
 - **LinkedIn:** https://www.linkedin.com/in/sachinmahto1811
 - **GitHub:** https://github.com/sachinmahto1811
 - **Email:** sachinsingh1811@gmail.com
-
----
-
-Currently building a stronger portfolio around practical analytics, automation, operational intelligence, and business-focused data analysis.
